@@ -1,0 +1,16 @@
+{
+  "name": "input-sanitization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input-sanitization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sanitize-html": "^2.17.0"
+  }
+}
